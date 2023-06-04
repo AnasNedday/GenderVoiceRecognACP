@@ -22,6 +22,7 @@ This database was created to identify a male or female voice, based on the acous
 The dataset includes 3,168 recorded voice samples collected from male and female speakers.
 Our data set starts with 20 variables.
 
+![Python](Python.png) ![Jupyter](Jupyter.png)
 ### Applied algorithm:
 ##### Steps to follow :
 Correlation Matrix <br>
