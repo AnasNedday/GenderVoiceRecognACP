@@ -24,11 +24,11 @@ Our data set starts with 20 variables.
 
 ### Applied algorithm:
 ##### Steps to follow :
-Correlation Matrix
-Data centering
-Data reduction
-Covariance-variance matrix
-Calculation of eigenvalues and vectors
-Calculation of sum of eigenvalues
-Calculation of inertia percentages and cumulative inertia percentages
-Choice of variables to keep
+Correlation Matrix <br>
+Data centering <br>
+Data reduction <br>
+Covariance-variance matrix <br>
+Calculation of eigenvalues and vectors <br>
+Calculation of sum of eigenvalues <br>
+Calculation of inertia percentages and cumulative inertia percentages <br>
+Choice of variables to keep <br>
