@@ -1,4 +1,4 @@
-# GenderVoiceRecognACP
+# GenderVoiceRecognitionPCA
 
 ## Principal component analysis (PCA) is a statistical procedure that is used to reduce the dimensionality. It uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. It is often used as a dimensionality reduction technique.
 
