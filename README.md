@@ -16,3 +16,19 @@
 
 ##### Step 6: Transform the original matrix.
 
+## Gender recognition through voice and speech analysis:
+
+This database was created to identify a male or female voice, based on the acoustic properties of voice and speech.
+The dataset includes 3,168 recorded voice samples collected from male and female speakers.
+Our data set starts with 20 variables.
+
+### Applied algorithm:
+##### Steps to follow :
+Correlation Matrix
+Data centering
+Data reduction
+Covariance-variance matrix
+Calculation of eigenvalues and vectors
+Calculation of sum of eigenvalues
+Calculation of inertia percentages and cumulative inertia percentages
+Choice of variables to keep
